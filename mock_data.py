@@ -57,10 +57,12 @@ catalog = [
   },
   {
     "_id": "88dbcxs23324",
-    "title": "strawberry",
+    "title": "apples",
     "image": "berries-300x200.jpg",
     "description": "Juicy ripe",
-    "price": 12.0,
+    "price": 10.0,
     "category": "fruit",
   }
 ]
+
+coupons=[]
